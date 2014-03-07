@@ -1,7 +1,6 @@
 /**
  * Diese Klasse schreibt schöne grüße vom Projektteilnehmer
- * @author Philipp Adler
- * @author Andi Ernhofer
+ * @author Stedronky Thomas
  * @version 2014-03-03
  */
 public class GrussMethoden {

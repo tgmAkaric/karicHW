@@ -1,6 +1,6 @@
 /**
  * Diese Klasse benutzt die GrussMethoden klasse welche grüße vom Teilnehmer ausgibt
- * @author Philipp Adler
+ * @author Stedronsky Thomas
  * @version 2014-02-28
  */
 public class MainKlasse {
