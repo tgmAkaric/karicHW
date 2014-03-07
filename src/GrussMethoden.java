@@ -38,4 +38,13 @@ public class GrussMethoden {
 	public static void thomaswuenscht(){
 		System.out.println("Servus Thomas :D");
 	}
+	
+	/**
+	 * Diese Methode wünscht liebe Grüße von Karic
+	 * @author Adin Karic
+	 * @version 2014-03-07
+	 */
+	public static void karicwuenscht(){
+		System.out.println("Hallo Adin");
+	}
 }
