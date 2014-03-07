@@ -29,4 +29,13 @@ public class GrussMethoden {
 	public static void jakubwuenscht(){
 		System.out.println("Schöne Grüße von Jakub");
 	}
+	
+	/**
+	 * Diese Methode wünscht liebe Grüße von Thomas
+	 * @author Thomas Stedronsky
+	 * @version 2013-03-03
+	 */
+	public static void thomaswuenscht(){
+		System.out.println("Servus Thomas :D");
+	}
 }

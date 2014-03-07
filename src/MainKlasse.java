@@ -12,5 +12,6 @@ public class MainKlasse {
 		GrussMethoden.adlerwünscht();//Diese Methode stammt von Adler
 		GrussMethoden.andiwuenscht();//Diese Mehthode stammt von Andi
 		GrussMethoden.jakubwuenscht();//Diese Mehthode stammt von Jakub
+		GrussMethoden.thomaswuenscht();//Diese Mehthode stammt von Thomas
 	}
 }
